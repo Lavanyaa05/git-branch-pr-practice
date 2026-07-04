@@ -1,1 +1,2 @@
 # git-branch-pr-practice
+I made two branches called feature-intro and feature-details, edited the notes.txt file in both branches, and merged them into main using PRs. For the second PR, I edited the same line in main and feature-details so that a merge conflict happened. I resolved the conflict in GitHub and then merged the PR. I also learnt that merge keeps the branch history, while rebase moves commits to make the history look cleaner.
