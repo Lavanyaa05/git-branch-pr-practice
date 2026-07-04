@@ -1,2 +1,2 @@
 Project Title: Git Branch Practice
-Feature: Main Branch conflicting version
+Feature: Details Branch version
