@@ -1,2 +1,2 @@
 Project Title: Git Branch Practice
-Feature: Branch version
+Feature: Details Branch version
